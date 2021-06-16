@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Durraiz-Waseem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C++ and Java
+- 📫 How to reach me L174114@lhr.nu.edu.pk
 
-<!---
-Durraiz-Waseem/Durraiz-Waseem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is the Calcultor Application
+This will perform the basic arithmatic functions
+
+Section:1 Open project in the Andriod studio and run it.
+
+Section:2 Java path files /app/src/main/java/com/example/calculator
+
